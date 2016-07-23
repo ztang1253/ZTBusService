@@ -1,0 +1,90 @@
+﻿@model ZTBusService.Models.driver
+
+@{
+    ViewBag.Title = "Details for Driver " + Model.fullName;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.driverId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.driverId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.fullName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fullName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.homePhone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.homePhone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.workPhone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.workPhone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.street)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.street)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.city)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.city)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.postalCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.postalCode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dateHired)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dateHired)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.provinceCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.province.name)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.driverId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+

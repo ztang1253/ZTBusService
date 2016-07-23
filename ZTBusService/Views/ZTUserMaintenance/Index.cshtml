@@ -1,0 +1,76 @@
+﻿@using Microsoft.AspNet.Identity;
+@model IEnumerable<ZTBusService.Models.ApplicationUser>
+
+@{
+    ViewBag.Title = "User Listing";
+    UserManager<ZTBusService.Models.ApplicationUser> userManager = ViewBag.userManager;
+    ViewBag.isAdministrator = User.IsInRole("administrators");
+    ViewBag.isStaff = User.IsInRole("staff");
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+<hr />
+<table>
+    <tr>
+        <th width="150">
+            User Name
+        </th>
+        <th width="150">
+            E-mail
+        </th>
+        <th width="150">
+            Is Locked Out
+        </th>
+        <th width="150">
+            Is External logon
+        </th>
+        <th>
+
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.UserName
+            </td>
+            <td>
+                @item.Email
+            </td>
+            <td>
+                @{
+        string isLockoutEnabled = item.LockoutEnabled == true ? "Yes" : "No";
+                }
+                @isLockoutEnabled
+            </td>
+            <td>
+                @{
+        string isExternalLogon = item.PasswordHash == null ? "Yes" : "No";
+                }
+                @isExternalLogon
+            </td>
+            <td>
+                @if (@item.LockoutEnabled)
+                {
+                    @Html.ActionLink("Unlock", "LockOut", new { userName = item.UserName }) <text>&emsp;|&emsp;</text>
+                }
+                else
+                {
+                    @Html.ActionLink("Lock", "LockOut", new { userName = item.UserName }) <text>&emsp;&emsp;|&emsp;</text>
+                }
+                @Html.ActionLink("Reset Password", "ChangePassword", new { userName = item.UserName })
+
+                @{
+        bool isAdmin = userManager.IsInRole(item.Id, "administrators");
+                }
+                @if (!isAdmin) //don’t show this link if the user is in the administrators’ role
+                {
+                    <text>&emsp;|&emsp;</text>
+                    @Html.ActionLink("Delete User", "DeleteUser", new { userName = item.UserName })
+                }
+            </td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,62 @@
+﻿@model IEnumerable<ZTBusService.Models.routeSchedule>
+
+@{
+    ViewBag.Title = "Route Stop Schedule Details";
+    TimeSpan offSetMinutes = TimeSpan.FromMinutes((double)Session["offSetMinutes"]);
+    bool myFlag = (bool)Session["flag"];
+}
+
+@if (Model.Count() > 0)
+{
+    <h3>Stop: @Session["busStopNumber"] - @Session["location"]</h3>
+    <h3>Route: @Model.ElementAt(0).busRoute.busRouteCode  -  @Model.ElementAt(0).busRoute.routeName</h3>
+
+    <br />
+    <h4>Mon-Fri</h4>
+    foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @if (item.isWeekDay)
+                {
+                    <ul>
+                        <li>
+                            @item.startTime.Add(offSetMinutes)
+                        </li>
+                    </ul>
+                }
+            </td>
+        </tr>
+    }
+
+    <br />
+    <h4>Sat-Sun &amp; Holidays</h4>
+    foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @if (!item.isWeekDay)
+                {
+                    <ul>
+                        <li>
+                            @item.startTime.Add(offSetMinutes)
+                        </li>
+                    </ul>
+                }
+            </td>
+        </tr>
+    }
+}
+else
+{
+    if (myFlag)
+    {
+        <h3 style="color: red">There is no route schedule here</h3>
+    }
+    else
+    {
+        <h3 style="color: red">Please select a bus stop first</h3>
+        @Html.ActionLink("Back to Bus Stop Listing", "Index", "ZTBusStop")
+    }
+
+}

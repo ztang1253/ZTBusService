@@ -1,0 +1,47 @@
+﻿@model ZTBusService.Models.routeStop
+
+@{
+    ViewBag.Title = "Delete stop for " + (string)Session["busRouteCode"] + " - " + (string)Session["busRouteName"];
+}
+
+<h2>@ViewBag.Title</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.offsetMinutes)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.offsetMinutes)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.busStopNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.busStopNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.busStop.location)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.busStop.location)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index", new { busRouteCode = (string)Session["busRouteCode"], busRouteName = (string)Session["busRouteName"] })
+        </div>
+    }
+</div>

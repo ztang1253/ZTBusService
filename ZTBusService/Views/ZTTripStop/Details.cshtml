@@ -1,0 +1,50 @@
+﻿@model ZTBusService.Models.tripStop
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>tripStop</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.tripStopTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tripStopTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.comments)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.comments)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.busStop.location)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.busStop.location)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.trip.comments)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.trip.comments)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.tripStopId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

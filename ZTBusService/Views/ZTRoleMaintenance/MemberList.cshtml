@@ -1,0 +1,49 @@
+﻿@model IEnumerable<ZTBusService.Models.ApplicationUser>
+@{
+    Session["roleName"] = (string)ViewBag.roleName;
+    ViewBag.Title = "Members in role " + Session["roleName"];
+}
+
+<h2>@ViewBag.Title</h2>
+<hr />
+@using (Html.BeginForm("AddToRole", "ZTRoleMaintenance"))
+{
+    @Html.DropDownList("id", ViewBag.userId as SelectList)
+    <input type="submit" value="Add to Role" />
+}
+<br />
+<table>
+    <tr>
+        <th width="150">
+            User Name
+        </th>
+        <th width="150">
+            E-mail
+        </th>
+        <th>
+
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.UserName
+            </td>
+            <td>
+                @item.Email
+            </td>
+            <td>
+                @*Hide remove button if current user is an administrator
+                @if (!(ViewBag.roleName == "administrators" && ViewBag.userName == @item.UserName))*@
+
+                @Html.ActionLink("Remove User", "RemoveFromRole", new { id = item.Id })
+            </td>
+        </tr>
+    }
+
+</table>
+<br /><br />
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

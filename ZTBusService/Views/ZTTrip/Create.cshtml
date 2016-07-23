@@ -1,0 +1,56 @@
+﻿@model ZTBusService.Models.trip
+
+@{
+ViewBag.Title = "New Trip for " + @Session["busRouteCode"] + " - " + @Session["busRouteName"];
+Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm("Create", "ZTTrip", FormMethod.Post, null))
+{
+@Html.AntiForgeryToken()
+@Html.ValidationSummary(false, "", new { @class = "text-danger" })
+@Html.EditorForModel()
+    <p> </p><p> </p>
+<p>
+    @Html.LabelFor(model => model.routeScheduleId, "Start Time")
+    @Html.DropDownList("routeScheduleId", ViewBag.startTimeDropDownList as SelectList)
+    @Html.ValidationMessage("routeScheduleId", "", new { @class = "text-danger" })
+</p>
+
+<p>
+    @Html.LabelFor(model => model.driverId, "Driver")
+    @Html.DropDownList("driverId", ViewBag.driverDropdownList as SelectList)
+    @Html.ValidationMessage("driverId", "", new { @class = "text-danger" })
+</p>
+
+    <p>
+        @{int count = 0;}
+        @foreach (var item in ViewBag.busRadioList)
+        {
+            string labelText = "bus" + item.busNumber;
+            int busNumber = item.busNumber;
+            int busId = item.busId;
+            @Html.RadioButton("busId", busId, htmlAttributes: new { @id = @labelText });
+            @Html.Label(labelText, busNumber.ToString());
+            <span>&nbsp</span>
+                                            count++;
+                                            if (count == 5)
+                                            {
+                                                <br />
+                                                count = 0;
+                                            }
+        }
+        @Html.ValidationMessage("busId", "", new { @class = "text-danger" })
+    </p>
+<input type="submit" value="Create" class="btn btn-default" />
+}
+<p> </p><p> </p>
+<div>
+@Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+@Scripts.Render("~/bundles/jqueryval")
+}

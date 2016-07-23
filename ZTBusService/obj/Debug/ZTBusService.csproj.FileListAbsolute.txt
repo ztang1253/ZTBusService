@@ -1,0 +1,1201 @@
+C:\ZTBusService\ZTBusService\bin\ZTBusService.dll.config
+C:\ZTBusService\ZTBusService\bin\ZTBusService.dll
+C:\ZTBusService\ZTBusService\bin\ZTBusService.pdb
+C:\ZTBusService\ZTBusService\bin\Antlr3.Runtime.dll
+C:\ZTBusService\ZTBusService\bin\EntityFramework.dll
+C:\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.dll
+C:\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\ZTBusService\ZTBusService\bin\Microsoft.Owin.dll
+C:\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.dll
+C:\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.dll
+C:\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\ZTBusService\ZTBusService\bin\Microsoft.Web.Infrastructure.dll
+C:\ZTBusService\ZTBusService\bin\Newtonsoft.Json.dll
+C:\ZTBusService\ZTBusService\bin\Owin.dll
+C:\ZTBusService\ZTBusService\bin\System.Web.Helpers.dll
+C:\ZTBusService\ZTBusService\bin\System.Web.Mvc.dll
+C:\ZTBusService\ZTBusService\bin\System.Web.Optimization.dll
+C:\ZTBusService\ZTBusService\bin\System.Web.Razor.dll
+C:\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.dll
+C:\ZTBusService\ZTBusService\bin\System.Web.WebPages.dll
+C:\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.dll
+C:\ZTBusService\ZTBusService\bin\WebGrease.dll
+C:\ZTBusService\ZTBusService\bin\System.Web.Helpers.xml
+C:\ZTBusService\ZTBusService\bin\System.Web.Mvc.xml
+C:\ZTBusService\ZTBusService\bin\System.Web.Optimization.xml
+C:\ZTBusService\ZTBusService\bin\System.Web.Razor.xml
+C:\ZTBusService\ZTBusService\bin\System.Web.WebPages.xml
+C:\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.xml
+C:\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.xml
+C:\ZTBusService\ZTBusService\bin\Antlr3.Runtime.pdb
+C:\ZTBusService\ZTBusService\bin\Newtonsoft.Json.xml
+C:\ZTBusService\ZTBusService\bin\EntityFramework.xml
+C:\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.xml
+C:\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ZTBusService\ZTBusService\bin\Microsoft.Owin.xml
+C:\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.xml
+C:\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.xml
+C:\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\ZTBusService\ZTBusService\obj\Debug\ZTBusService.dll
+C:\ZTBusService\ZTBusService\obj\Debug\ZTBusService.pdb
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\ZTBusService.dll.config
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\ZTBusService.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\ZTBusService.pdb
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Antlr3.Runtime.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\EntityFramework.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Microsoft.Owin.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Microsoft.Web.Infrastructure.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Newtonsoft.Json.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Owin.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\System.Web.Helpers.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\System.Web.Mvc.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\System.Web.Optimization.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\System.Web.Razor.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\System.Web.WebPages.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\WebGrease.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\System.Web.Helpers.xml
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\System.Web.Mvc.xml
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\System.Web.Optimization.xml
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\System.Web.Razor.xml
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\System.Web.WebPages.xml
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.xml
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.xml
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Antlr3.Runtime.pdb
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Newtonsoft.Json.xml
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\EntityFramework.xml
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.xml
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.xml
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Microsoft.Owin.xml
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.xml
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.xml
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.xml
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.xml
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.xml
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.xml
+G:\2230\0inclass\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\2230\0inclass\ZTBusService\ZTBusService\obj\Debug\ZTBusService.dll
+G:\2230\0inclass\ZTBusService\ZTBusService\obj\Debug\ZTBusService.pdb
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\ZTBusService.dll.config
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\ZTBusService.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\ZTBusService.pdb
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Antlr3.Runtime.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\EntityFramework.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Newtonsoft.Json.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Owin.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\System.Web.Helpers.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\System.Web.Mvc.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\System.Web.Optimization.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\System.Web.Razor.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\System.Web.WebPages.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\WebGrease.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\System.Web.Helpers.xml
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\System.Web.Mvc.xml
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\System.Web.Optimization.xml
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\System.Web.Razor.xml
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\System.Web.WebPages.xml
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Antlr3.Runtime.pdb
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Newtonsoft.Json.xml
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\EntityFramework.xml
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.xml
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.xml
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.xml
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\obj\Debug\ZTBusService.dll
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\obj\Debug\ZTBusService.pdb
+C:\Users\Jane\Desktop\2230\a2\ZTBusService\ZTBusService\obj\Debug\ZTBusService.csprojResolveAssemblyReference.cache
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\ZTBusService.dll.config
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\ZTBusService.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\ZTBusService.pdb
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Antlr3.Runtime.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\EntityFramework.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Web.Infrastructure.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Newtonsoft.Json.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Owin.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\System.Web.Helpers.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\System.Web.Mvc.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\System.Web.Optimization.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\System.Web.Razor.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\System.Web.WebPages.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\WebGrease.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\System.Web.Helpers.xml
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\System.Web.Mvc.xml
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\System.Web.Optimization.xml
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\System.Web.Razor.xml
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\System.Web.WebPages.xml
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.xml
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.xml
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Antlr3.Runtime.pdb
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Newtonsoft.Json.xml
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\EntityFramework.xml
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.xml
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.xml
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.xml
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.xml
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.xml
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.xml
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.xml
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.xml
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.xml
+E:\tzz\2230\a2\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\tzz\2230\a2\ZTBusService\ZTBusService\obj\Debug\ZTBusService.dll
+E:\tzz\2230\a2\ZTBusService\ZTBusService\obj\Debug\ZTBusService.pdb
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\ZTBusService.dll.config
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\ZTBusService.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\ZTBusService.pdb
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Antlr3.Runtime.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\EntityFramework.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Microsoft.Owin.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Microsoft.Web.Infrastructure.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Newtonsoft.Json.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Owin.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\System.Web.Helpers.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\System.Web.Mvc.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\System.Web.Optimization.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\System.Web.Razor.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\System.Web.WebPages.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\WebGrease.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\System.Web.Helpers.xml
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\System.Web.Mvc.xml
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\System.Web.Optimization.xml
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\System.Web.Razor.xml
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\System.Web.WebPages.xml
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.xml
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.xml
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Antlr3.Runtime.pdb
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Newtonsoft.Json.xml
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\EntityFramework.xml
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.xml
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.xml
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Microsoft.Owin.xml
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.xml
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.xml
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.xml
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.xml
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.xml
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.xml
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\obj\Debug\ZTBusService.csprojResolveAssemblyReference.cache
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\obj\Debug\ZTBusService.dll
+G:\2230\00Assignments\3\ZTBusService\ZTBusService\obj\Debug\ZTBusService.pdb
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\ZTBusService.dll.config
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\ZTBusService.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\ZTBusService.pdb
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Antlr3.Runtime.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\EntityFramework.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Microsoft.Owin.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Microsoft.Web.Infrastructure.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Newtonsoft.Json.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Owin.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\System.Web.Helpers.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\System.Web.Mvc.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\System.Web.Optimization.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\System.Web.Razor.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\System.Web.WebPages.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\WebGrease.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\System.Web.Helpers.xml
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\System.Web.Mvc.xml
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\System.Web.Optimization.xml
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\System.Web.Razor.xml
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\System.Web.WebPages.xml
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.xml
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.xml
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Antlr3.Runtime.pdb
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Newtonsoft.Json.xml
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\EntityFramework.xml
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.xml
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.xml
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Microsoft.Owin.xml
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.xml
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.xml
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.xml
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.xml
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.xml
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.xml
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\obj\Debug\ZTBusService.dll
+G:\2230\00Assignments\3 - Copy\ZTBusService\ZTBusService\obj\Debug\ZTBusService.pdb
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\ZTBusService.dll.config
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\ZTBusService.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\ZTBusService.pdb
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Antlr3.Runtime.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\EntityFramework.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\EntityFramework.SqlServer.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Microsoft.AspNet.Identity.Core.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Microsoft.Owin.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Microsoft.Owin.Security.Cookies.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Microsoft.Owin.Security.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Microsoft.Owin.Security.Facebook.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Microsoft.Owin.Security.Google.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Microsoft.Owin.Security.OAuth.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Microsoft.Owin.Security.Twitter.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Microsoft.Web.Infrastructure.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Newtonsoft.Json.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Owin.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\System.Web.Helpers.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\System.Web.Mvc.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\System.Web.Optimization.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\System.Web.Razor.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\System.Web.WebPages.Deployment.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\System.Web.WebPages.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\System.Web.WebPages.Razor.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\WebGrease.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\System.Web.Helpers.xml
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\System.Web.Mvc.xml
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\System.Web.Optimization.xml
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\System.Web.Razor.xml
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\System.Web.WebPages.xml
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\System.Web.WebPages.Deployment.xml
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\System.Web.WebPages.Razor.xml
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Antlr3.Runtime.pdb
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Newtonsoft.Json.xml
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\EntityFramework.xml
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\EntityFramework.SqlServer.xml
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Microsoft.AspNet.Identity.Core.xml
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Microsoft.Owin.xml
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Microsoft.Owin.Security.xml
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Microsoft.Owin.Security.Facebook.xml
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Microsoft.Owin.Security.Cookies.xml
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Microsoft.Owin.Security.OAuth.xml
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Microsoft.Owin.Security.Google.xml
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Microsoft.Owin.Security.Twitter.xml
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\obj\Debug\ZTBusService.dll
+G:\2230\00Assignments\3\ZTBusService-just less comment - Copy\ZTBusService\obj\Debug\ZTBusService.pdb
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\ZTBusService.dll.config
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\ZTBusService.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\ZTBusService.pdb
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Antlr3.Runtime.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\EntityFramework.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Microsoft.Owin.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Newtonsoft.Json.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Owin.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\System.Web.Helpers.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\System.Web.Mvc.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\System.Web.Optimization.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\System.Web.Razor.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\System.Web.WebPages.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\WebGrease.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\System.Web.Helpers.xml
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\System.Web.Mvc.xml
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\System.Web.Optimization.xml
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\System.Web.Razor.xml
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\System.Web.WebPages.xml
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Antlr3.Runtime.pdb
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Newtonsoft.Json.xml
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\EntityFramework.xml
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.xml
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Microsoft.Owin.xml
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.xml
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\obj\Debug\ZTBusService.dll
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\obj\Debug\ZTBusService.pdb
+C:\Users\Jane\Desktop\myHomework\ZTBusService\ZTBusService\obj\Debug\ZTBusService.csprojResolveAssemblyReference.cache
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\ZTBusService.dll.config
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\ZTBusService.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\ZTBusService.pdb
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Antlr3.Runtime.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\EntityFramework.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Microsoft.Owin.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Microsoft.Web.Infrastructure.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Newtonsoft.Json.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Owin.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\System.Web.Helpers.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\System.Web.Mvc.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\System.Web.Optimization.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\System.Web.Razor.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\System.Web.WebPages.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\WebGrease.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\System.Web.Helpers.xml
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\System.Web.Mvc.xml
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\System.Web.Optimization.xml
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\System.Web.Razor.xml
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\System.Web.WebPages.xml
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.xml
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.xml
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Antlr3.Runtime.pdb
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Newtonsoft.Json.xml
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\EntityFramework.xml
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.xml
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.xml
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Microsoft.Owin.xml
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.xml
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.xml
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.xml
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.xml
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.xml
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.xml
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\obj\Debug\ZTBusService.dll
+G:\2230\00Assignments\4\ZTBusService\ZTBusService\obj\Debug\ZTBusService.pdb
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\ZTBusService.dll.config
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\ZTBusService.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\ZTBusService.pdb
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Antlr3.Runtime.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\EntityFramework.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Newtonsoft.Json.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Owin.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\System.Web.Helpers.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\System.Web.Mvc.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\System.Web.Optimization.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\System.Web.Razor.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\System.Web.WebPages.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\WebGrease.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\System.Web.Helpers.xml
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\System.Web.Mvc.xml
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\System.Web.Optimization.xml
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\System.Web.Razor.xml
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\System.Web.WebPages.xml
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.xml
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Antlr3.Runtime.pdb
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Newtonsoft.Json.xml
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\EntityFramework.xml
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.xml
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.xml
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.xml
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\obj\Debug\ZTBusService.csprojResolveAssemblyReference.cache
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\obj\Debug\ZTBusService.dll
+C:\Users\ztang1253\Desktop\ZTBusService\ZTBusService\obj\Debug\ZTBusService.pdb
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\ZTBusService.dll.config
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\ZTBusService.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\ZTBusService.pdb
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Antlr3.Runtime.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\EntityFramework.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Microsoft.Owin.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Microsoft.Web.Infrastructure.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Newtonsoft.Json.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Owin.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\System.Web.Helpers.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\System.Web.Mvc.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\System.Web.Optimization.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\System.Web.Razor.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\System.Web.WebPages.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\WebGrease.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\System.Web.Helpers.xml
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\System.Web.Mvc.xml
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\System.Web.Optimization.xml
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\System.Web.Razor.xml
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\System.Web.WebPages.xml
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.xml
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.xml
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Antlr3.Runtime.pdb
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Newtonsoft.Json.xml
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\EntityFramework.xml
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.xml
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.xml
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Microsoft.Owin.xml
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.xml
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.xml
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.xml
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.xml
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.xml
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.xml
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\obj\Debug\ZTBusService.dll
+G:\2230\00Assignments\5\ZTBusService\ZTBusService\obj\Debug\ZTBusService.pdb
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\ZTBusService.dll.config
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\ZTBusService.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\ZTBusService.pdb
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Antlr3.Runtime.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\EntityFramework.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\EntityFramework.SqlServer.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Microsoft.Owin.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Microsoft.Owin.Security.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Newtonsoft.Json.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Owin.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\System.Web.Helpers.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\System.Web.Mvc.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\System.Web.Optimization.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\System.Web.Razor.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\System.Web.WebPages.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\WebGrease.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\ZTClassLibrary.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\ZTClassLibrary.pdb
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\System.Web.Helpers.xml
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\System.Web.Mvc.xml
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\System.Web.Optimization.xml
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\System.Web.Razor.xml
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\System.Web.WebPages.xml
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Antlr3.Runtime.pdb
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Newtonsoft.Json.xml
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\EntityFramework.xml
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\EntityFramework.SqlServer.xml
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Microsoft.Owin.xml
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Microsoft.Owin.Security.xml
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\obj\Debug\ZTBusService.csprojResolveAssemblyReference.cache
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\obj\Debug\ZTBusService.dll
+C:\Users\Jane\Desktop\ZTBusService - 副本\ZTBusService\obj\Debug\ZTBusService.pdb
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\ZTBusService.dll.config
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\ZTBusService.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\ZTBusService.pdb
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Antlr3.Runtime.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\EntityFramework.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\EntityFramework.SqlServer.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Microsoft.Owin.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Microsoft.Owin.Security.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Newtonsoft.Json.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\nunit.framework.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Owin.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\System.Web.Helpers.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\System.Web.Mvc.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\System.Web.Optimization.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\System.Web.Razor.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\System.Web.WebPages.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\WebGrease.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\ZTClassLibrary.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\ZTClassLibrary.pdb
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\nunit.framework.xml
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\System.Web.Helpers.xml
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\System.Web.Mvc.xml
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\System.Web.Optimization.xml
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\System.Web.Razor.xml
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\System.Web.WebPages.xml
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Antlr3.Runtime.pdb
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Newtonsoft.Json.xml
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\EntityFramework.xml
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\EntityFramework.SqlServer.xml
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Microsoft.Owin.xml
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Microsoft.Owin.Security.xml
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\obj\Debug\ZTBusService.csprojResolveAssemblyReference.cache
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\obj\Debug\ZTBusService.dll
+C:\Users\Jane\Desktop\ZTBusService-test\ZTBusService\obj\Debug\ZTBusService.pdb
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\ZTBusService.dll.config
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\ZTBusService.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\ZTBusService.pdb
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Antlr3.Runtime.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\EntityFramework.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\EntityFramework.SqlServer.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Microsoft.AspNet.Identity.Core.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Microsoft.Owin.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Microsoft.Owin.Security.Cookies.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Microsoft.Owin.Security.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Microsoft.Owin.Security.Facebook.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Microsoft.Owin.Security.Google.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Microsoft.Owin.Security.OAuth.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Microsoft.Owin.Security.Twitter.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Microsoft.Web.Infrastructure.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Newtonsoft.Json.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\nunit.framework.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Owin.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\System.Web.Helpers.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\System.Web.Mvc.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\System.Web.Optimization.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\System.Web.Razor.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\System.Web.WebPages.Deployment.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\System.Web.WebPages.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\System.Web.WebPages.Razor.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\WebGrease.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\ZTClassLibrary.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\ZTClassLibrary.pdb
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\nunit.framework.xml
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\System.Web.Helpers.xml
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\System.Web.Mvc.xml
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\System.Web.Optimization.xml
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\System.Web.Razor.xml
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\System.Web.WebPages.xml
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\System.Web.WebPages.Deployment.xml
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\System.Web.WebPages.Razor.xml
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Antlr3.Runtime.pdb
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Newtonsoft.Json.xml
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\EntityFramework.xml
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\EntityFramework.SqlServer.xml
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Microsoft.AspNet.Identity.Core.xml
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Microsoft.Owin.xml
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Microsoft.Owin.Security.xml
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Microsoft.Owin.Security.Facebook.xml
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Microsoft.Owin.Security.Cookies.xml
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Microsoft.Owin.Security.OAuth.xml
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Microsoft.Owin.Security.Google.xml
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Microsoft.Owin.Security.Twitter.xml
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\obj\Debug\ZTBusService.csprojResolveAssemblyReference.cache
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\obj\Debug\ZTBusService.dll
+E:\tzz\2230\a\a6\ZTBusService-last\ZTBusService\obj\Debug\ZTBusService.pdb
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\ZTBusService.dll.config
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\ZTBusService.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\ZTBusService.pdb
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Antlr3.Runtime.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\EntityFramework.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\EntityFramework.SqlServer.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Microsoft.AspNet.Identity.Core.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.Cookies.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.Facebook.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.Google.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.OAuth.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.Twitter.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Web.Infrastructure.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Newtonsoft.Json.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\nunit.framework.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Owin.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\System.Web.Helpers.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\System.Web.Mvc.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\System.Web.Optimization.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\System.Web.Razor.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\System.Web.WebPages.Deployment.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\System.Web.WebPages.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\System.Web.WebPages.Razor.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\WebGrease.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\ZTClassLibrary.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\ZTClassLibrary.pdb
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\nunit.framework.xml
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\System.Web.Helpers.xml
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\System.Web.Mvc.xml
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\System.Web.Optimization.xml
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\System.Web.Razor.xml
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\System.Web.WebPages.xml
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\System.Web.WebPages.Deployment.xml
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\System.Web.WebPages.Razor.xml
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Antlr3.Runtime.pdb
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Newtonsoft.Json.xml
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\EntityFramework.xml
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\EntityFramework.SqlServer.xml
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Microsoft.AspNet.Identity.Core.xml
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.xml
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.xml
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.Facebook.xml
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.Cookies.xml
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.OAuth.xml
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.Google.xml
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.Twitter.xml
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\obj\Debug\ZTBusService.csprojResolveAssemblyReference.cache
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\obj\Debug\ZTBusService.dll
+G:\2230\00Assignments\6\ZTBusService-lastlast\ZTBusService\obj\Debug\ZTBusService.pdb
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\ZTBusService.dll.config
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\ZTBusService.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\ZTBusService.pdb
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Antlr3.Runtime.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\EntityFramework.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\EntityFramework.SqlServer.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Newtonsoft.Json.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\nunit.framework.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Owin.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\System.Web.Helpers.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\System.Web.Mvc.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\System.Web.Optimization.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\System.Web.Razor.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\System.Web.WebPages.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\WebGrease.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\ZTClassLibrary.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\ZTClassLibrary.pdb
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\nunit.framework.xml
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\System.Web.Helpers.xml
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\System.Web.Mvc.xml
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\System.Web.Optimization.xml
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\System.Web.Razor.xml
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\System.Web.WebPages.xml
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Antlr3.Runtime.pdb
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Newtonsoft.Json.xml
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\EntityFramework.xml
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\EntityFramework.SqlServer.xml
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.xml
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.xml
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\obj\Debug\ZTBusService.csprojResolveAssemblyReference.cache
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\obj\Debug\ZTBusService.dll
+C:\Users\Jane\Desktop\ZTBusService-lastlast\ZTBusService\obj\Debug\ZTBusService.pdb
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\ZTBusService.dll.config
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\ZTBusService.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\ZTBusService.pdb
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Antlr3.Runtime.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\EntityFramework.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\EntityFramework.SqlServer.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Microsoft.Owin.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Newtonsoft.Json.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\nunit.framework.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Owin.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\System.Web.Helpers.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\System.Web.Mvc.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\System.Web.Optimization.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\System.Web.Razor.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\System.Web.WebPages.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\WebGrease.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\ZTClassLibrary.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\ZTClassLibrary.pdb
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\nunit.framework.xml
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\System.Web.Helpers.xml
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\System.Web.Mvc.xml
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\System.Web.Optimization.xml
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\System.Web.Razor.xml
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\System.Web.WebPages.xml
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Antlr3.Runtime.pdb
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Newtonsoft.Json.xml
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\EntityFramework.xml
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\EntityFramework.SqlServer.xml
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Microsoft.Owin.xml
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.xml
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\obj\Debug\ZTBusService.dll
+C:\Users\Jane\Desktop\ZTBusService6\ZTBusService\obj\Debug\ZTBusService.pdb
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\ZTBusService.dll.config
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\ZTBusService.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\ZTBusService.pdb
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Antlr3.Runtime.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\EntityFramework.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\EntityFramework.SqlServer.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Microsoft.AspNet.Identity.Core.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Microsoft.Owin.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.Cookies.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.Facebook.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.Google.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.OAuth.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.Twitter.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Microsoft.Web.Infrastructure.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Newtonsoft.Json.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\nunit.framework.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Owin.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\System.Web.Helpers.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\System.Web.Mvc.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\System.Web.Optimization.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\System.Web.Razor.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\System.Web.WebPages.Deployment.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\System.Web.WebPages.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\System.Web.WebPages.Razor.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\WebGrease.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\ZTClassLibrary.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\ZTClassLibrary.pdb
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\nunit.framework.xml
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\System.Web.Helpers.xml
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\System.Web.Mvc.xml
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\System.Web.Optimization.xml
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\System.Web.Razor.xml
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\System.Web.WebPages.xml
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\System.Web.WebPages.Deployment.xml
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\System.Web.WebPages.Razor.xml
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Antlr3.Runtime.pdb
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Newtonsoft.Json.xml
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\EntityFramework.xml
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\EntityFramework.SqlServer.xml
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Microsoft.AspNet.Identity.Core.xml
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Microsoft.Owin.xml
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.xml
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.Facebook.xml
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.Cookies.xml
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.OAuth.xml
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.Google.xml
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.Twitter.xml
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\obj\Debug\ZTBusService.csprojResolveAssemblyReference.cache
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\obj\Debug\ZTBusService.dll
+G:\2230\00Assignments\6\ZTBusService6\ZTBusService6\ZTBusService\obj\Debug\ZTBusService.pdb
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\ZTBusService.dll.config
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\ZTBusService.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\ZTBusService.pdb
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Antlr3.Runtime.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\EntityFramework.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Microsoft.Owin.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Microsoft.Web.Infrastructure.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Newtonsoft.Json.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\nunit.framework.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Owin.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\System.Web.Helpers.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\System.Web.Mvc.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\System.Web.Optimization.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\System.Web.Razor.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\System.Web.WebPages.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\WebGrease.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\ZTClassLibrary.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\ZTClassLibrary.pdb
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\nunit.framework.xml
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\System.Web.Helpers.xml
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\System.Web.Mvc.xml
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\System.Web.Optimization.xml
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\System.Web.Razor.xml
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\System.Web.WebPages.xml
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.xml
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.xml
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Antlr3.Runtime.pdb
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Newtonsoft.Json.xml
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\EntityFramework.xml
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.xml
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.xml
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Microsoft.Owin.xml
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.xml
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.xml
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.xml
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.xml
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.xml
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.xml
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\obj\Debug\ZTBusService.csprojResolveAssemblyReference.cache
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\obj\Debug\ZTBusService.dll
+G:\2230\00Assignments\7\ZTBusService\ZTBusService\ZTBusService\obj\Debug\ZTBusService.pdb
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\ZTBusService.dll.config
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\ZTBusService.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\ZTBusService.pdb
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\fr\ZTBusService.resources.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\zh\ZTBusService.resources.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Antlr3.Runtime.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\EntityFramework.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Newtonsoft.Json.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\nunit.framework.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Owin.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\System.Web.Helpers.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\System.Web.Mvc.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\System.Web.Optimization.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\System.Web.Razor.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\System.Web.WebPages.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\WebGrease.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\ZTClassLibrary.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\ZTClassLibrary.pdb
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\nunit.framework.xml
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\System.Web.Helpers.xml
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\System.Web.Mvc.xml
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\System.Web.Optimization.xml
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\System.Web.Razor.xml
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\System.Web.WebPages.xml
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Antlr3.Runtime.pdb
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Newtonsoft.Json.xml
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\EntityFramework.xml
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.xml
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.xml
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.xml
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\obj\Debug\ZTBusService.csprojResolveAssemblyReference.cache
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\obj\Debug\ZTBusService.App_GlobalResources.ZTTranslations.resources
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\obj\Debug\ZTBusService.App_GlobalResources.ZTTranslations.fr.resources
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\obj\Debug\ZTBusService.App_GlobalResources.ZTTranslations.zh.resources
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\obj\Debug\ZTBusService.csproj.GenerateResource.Cache
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\obj\Debug\fr\ZTBusService.resources.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\obj\Debug\zh\ZTBusService.resources.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\obj\Debug\ZTBusService.dll
+C:\Users\Jane\Desktop\ZTBusService\ZTBusService\obj\Debug\ZTBusService.pdb
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\ZTBusService.dll.config
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\ZTBusService.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\ZTBusService.pdb
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\fr\ZTBusService.resources.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\zh\ZTBusService.resources.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Antlr3.Runtime.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\EntityFramework.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Microsoft.Owin.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Newtonsoft.Json.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\nunit.framework.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Owin.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\System.Web.Helpers.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\System.Web.Mvc.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\System.Web.Optimization.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\System.Web.Razor.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\System.Web.WebPages.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\WebGrease.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\ZTClassLibrary.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\ZTClassLibrary.pdb
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\nunit.framework.xml
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\System.Web.Helpers.xml
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\System.Web.Mvc.xml
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\System.Web.Optimization.xml
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\System.Web.Razor.xml
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\System.Web.WebPages.xml
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Antlr3.Runtime.pdb
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Newtonsoft.Json.xml
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\EntityFramework.xml
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\EntityFramework.SqlServer.xml
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Microsoft.Owin.xml
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.xml
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\obj\Debug\ZTBusService.csprojResolveAssemblyReference.cache
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\obj\Debug\ZTBusService.App_GlobalResources.ZTTranslations.resources
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\obj\Debug\ZTBusService.App_GlobalResources.ZTTranslations.fr.resources
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\obj\Debug\ZTBusService.App_GlobalResources.ZTTranslations.zh.resources
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\obj\Debug\ZTBusService.csproj.GenerateResource.Cache
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\obj\Debug\fr\ZTBusService.resources.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\obj\Debug\zh\ZTBusService.resources.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\obj\Debug\ZTBusService.dll
+C:\Users\Jane\Desktop\ZTBusService-uploaded\ZTBusService\ZTBusService\obj\Debug\ZTBusService.pdb

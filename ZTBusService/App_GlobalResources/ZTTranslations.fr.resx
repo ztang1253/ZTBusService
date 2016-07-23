@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="About" xml:space="preserve">
+    <value>Sur</value>
+  </data>
+  <data name="address" xml:space="preserve">
+    <value>Adresse de rue</value>
+  </data>
+  <data name="ChangeLanguage" xml:space="preserve">
+    <value>Changer de langue</value>
+  </data>
+  <data name="city" xml:space="preserve">
+    <value>Ville</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>Contactez nous</value>
+  </data>
+  <data name="countryCode" xml:space="preserve">
+    <value>Code postal</value>
+  </data>
+  <data name="Create" xml:space="preserve">
+    <value>Créer</value>
+  </data>
+  <data name="CreateNewX" xml:space="preserve">
+    <value>Créer un nouveau {0}</value>
+  </data>
+  <data name="dateHired" xml:space="preserve">
+    <value>Date d'embauche</value>
+  </data>
+  <data name="Driver" xml:space="preserve">
+    <value>Conducteur</value>
+  </data>
+  <data name="driverLowerCase" xml:space="preserve">
+    <value>conducteur</value>
+  </data>
+  <data name="email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="exceptionTryingToAddX" xml:space="preserve">
+    <value>exception essayer d'ajouter un nouveau {0}:</value>
+  </data>
+  <data name="FieldMustBeDate" xml:space="preserve">
+    <value>champ '{0}' doit être une date</value>
+  </data>
+  <data name="FieldMustBeNumeric" xml:space="preserve">
+    <value>champ '{0}' doit être un nombre</value>
+  </data>
+  <data name="firstName" xml:space="preserve">
+    <value>Prénom</value>
+  </data>
+  <data name="fullNameDriver" xml:space="preserve">
+    <value>Nom du pilote</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Accueil</value>
+  </data>
+  <data name="homePhone" xml:space="preserve">
+    <value>Téléphone fixe</value>
+  </data>
+  <data name="id" xml:space="preserve">
+    <value>Id Pilote</value>
+  </data>
+  <data name="lastName" xml:space="preserve">
+    <value>Nom de famille</value>
+  </data>
+  <data name="LogIn" xml:space="preserve">
+    <value>S'identifier</value>
+  </data>
+  <data name="name" xml:space="preserve">
+    <value>Nom</value>
+  </data>
+  <data name="NewXRecordAdded" xml:space="preserve">
+    <value> New {0} enregistrement ajouté.</value>
+  </data>
+  <data name="phone" xml:space="preserve">
+    <value>Téléphone</value>
+  </data>
+  <data name="phonePattern" xml:space="preserve">
+    <value>Motif de téléphone</value>
+  </data>
+  <data name="pleaseSelect" xml:space="preserve">
+    <value>--- Veuillez choisir ---</value>
+  </data>
+  <data name="postalCode" xml:space="preserve">
+    <value>Code Postal</value>
+  </data>
+  <data name="postalPattern" xml:space="preserve">
+    <value>Motif postal</value>
+  </data>
+  <data name="PropertyValueInvalid" xml:space="preserve">
+    <value>'{0}' est pas une valeur valide pour '{1}'</value>
+  </data>
+  <data name="PropertyValueRequired" xml:space="preserve">
+    <value>une valeur est nécessaire pour '{0}'</value>
+  </data>
+  <data name="province" xml:space="preserve">
+    <value>Province</value>
+  </data>
+  <data name="provinceCode" xml:space="preserve">
+    <value>Province Code</value>
+  </data>
+  <data name="provinceStateLabel" xml:space="preserve">
+    <value>Province Étiquette</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>registre</value>
+  </data>
+  <data name="Required" xml:space="preserve">
+    <value>{0} ne peut pas être vides ou seulement</value>
+  </data>
+  <data name="ReturnToList" xml:space="preserve">
+    <value>Retour à la liste</value>
+  </data>
+  <data name="Roles" xml:space="preserve">
+    <value>Les rôles</value>
+  </data>
+  <data name="Section" xml:space="preserve">
+    <value>Section</value>
+  </data>
+  <data name="street" xml:space="preserve">
+    <value>rue</value>
+  </data>
+  <data name="streetAddress" xml:space="preserve">
+    <value>Adresse de rue</value>
+  </data>
+  <data name="TempMessageDeleteSuccessIdName" xml:space="preserve">
+    <value>Le pilote (id: {0}, le nom complet: {1}) a été supprimé.</value>
+  </data>
+  <data name="TempMessageErrorOnDeleteIdName" xml:space="preserve">
+    <value>Défaut de supprimer le pilote (id: {0}, le nom complet: {1}):</value>
+  </data>
+  <data name="TempMessageErrorOnEditIdName" xml:space="preserve">
+    <value>Défaut de mettre à jour l'information pour le conducteur (id: {0}, le nom complet: {1}):</value>
+  </data>
+  <data name="TempMessageUpdateSuccessIdName" xml:space="preserve">
+    <value>Les données de ce pilote (id: {0}, le nom complet: {1}) a été mis à jour.</value>
+  </data>
+  <data name="TempMessageXisX" xml:space="preserve">
+    <value> {0} est {1}.</value>
+  </data>
+  <data name="titleAddNewX" xml:space="preserve">
+    <value>Ajouter un nouveau {0}</value>
+  </data>
+  <data name="userName" xml:space="preserve">
+    <value>Nom d'utilisateur</value>
+  </data>
+  <data name="Users" xml:space="preserve">
+    <value>Utilisateurs</value>
+  </data>
+  <data name="workPhone" xml:space="preserve">
+    <value>Téléphone de travail</value>
+  </data>
+  <data name="XCannotBeBlanks" xml:space="preserve">
+    <value>{0} ne peut pas être seulement des flans / espaces.</value>
+  </data>
+  <data name="XcannotBeDerivedFromXorX" xml:space="preserve">
+    <value>{0} ne peut pas être extraite de {1} ou {2}</value>
+  </data>
+  <data name="XCannotBeFuture" xml:space="preserve">
+    <value>{0} ne peut pas être dans l'avenir.</value>
+  </data>
+  <data name="XIsInvalidDate" xml:space="preserve">
+    <value>{0} est pas une date formate valide: 2005-12-31</value>
+  </data>
+  <data name="XIsInvalidPhoneNumber" xml:space="preserve">
+    <value>{0} est pas un numéro de téléphone valide. S'il vous plaît formater comme 222-222-2222.</value>
+  </data>
+  <data name="XIsInvalidPostal" xml:space="preserve">
+    <value>{0} est pas un modèle postal canadien valide: A3A 3A3</value>
+  </data>
+  <data name="XisNotOnFile" xml:space="preserve">
+    <value>{0} '{1}' est pas dans le dossier</value>
+  </data>
+  <data name="XRecordCreated" xml:space="preserve">
+    <value>{0} enregistrement créé</value>
+  </data>
+  <data name="ZhenzhenBusService" xml:space="preserve">
+    <value>Service Bus de Zhenzhen</value>
+  </data>
+  <data name="ErrorOnValidatingX" xml:space="preserve">
+    <value>Erreur sur la validation {0}:</value>
+  </data>
+  <data name="WrongProvincePattern" xml:space="preserve">
+    <value>Province Code est pas un code de province canadienne valide.</value>
+  </data>
+  <data name="XCanOnlyBe2EnglishLetters" xml:space="preserve">
+    <value>{0} ne doit contenir Anglais alphabet lettres et d'être seulement 2 lettres.</value>
+  </data>
+  <data name="DataTypeDateTime" xml:space="preserve">
+    <value>Le champ {0} doit être une date.</value>
+  </data>
+  <data name="StringLength" xml:space="preserve">
+    <value>La longueur de {0} devrait être de 2 à 50.</value>
+  </data>
+</root>

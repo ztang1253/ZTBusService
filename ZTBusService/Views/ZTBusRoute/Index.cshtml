@@ -1,0 +1,63 @@
+﻿@model IEnumerable<ZTBusService.Models.busRoute>
+
+@{
+    ViewBag.Title = "Bus Route Listing";
+    ViewBag.isAdministrator = User.IsInRole("administrators");
+    ViewBag.isStaff = User.IsInRole("staff");
+}
+
+<h2>Bus Route Listing</h2>
+
+<p>
+    @if (ViewBag.isAdministrator || ViewBag.isStaff)
+    {
+        @Html.ActionLink("Create New", "Create")
+    }    
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Bus Route Code
+        </th>
+        <th>
+            Route Name
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.busRouteCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.routeName)
+            </td>
+            <td>
+                @if (ViewBag.isAdministrator || ViewBag.isStaff)
+                {
+                    @Html.ActionLink("Edit", "Edit", new { id = item.busRouteCode })<text> | </text>
+                }
+
+                @Html.ActionLink("Details", "Details", new { id = item.busRouteCode })
+                @if (ViewBag.isAdministrator || ViewBag.isStaff)
+                {
+                    <text> | </text>
+                    @Html.ActionLink("Delete", "Delete", new { id = item.busRouteCode })<text> | </text>
+                    @Html.ActionLink("Route Stop", "Index", "ZTRouteStop", new
+                                   {
+                                       busRouteCode = item.busRouteCode,
+                                       busRouteName = item.routeName
+                                   }, null)<text> | </text>
+                                @Html.ActionLink("Monitored Trips", "Index", "ZTTrip", new
+                                   {
+                                       busRouteCode = item.busRouteCode,
+                                       busRouteName = item.routeName
+                                   }, null)
+                }
+            </td>
+        </tr>
+    }
+
+</table>

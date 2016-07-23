@@ -1,0 +1,49 @@
+﻿@model IEnumerable<ZTBusService.Models.ApplicationUser>
+
+@{
+    ViewBag.Title = "Delete Role : " + ViewBag.roleName;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+<hr />
+
+<h3>Role: @ViewBag.roleName still has member(s) in it. Do you really want to delete this role ?</h3>
+
+<table>
+    <tr>
+        <th>
+
+        </th>
+        <th>
+            User Name
+        </th>
+    </tr>
+    @{ int i = 0; }
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @{i++;}
+                @i .&nbsp;
+            </td>
+            <td>
+                @item.UserName
+            </td>
+        </tr>
+    }
+</table>
+<br />
+<div>
+    @using (Html.BeginForm("DeleteConfirmed", "ZTRoleMaintenance",
+            routeValues: new { roleName = ViewBag.roleName }))
+    {
+        <input type="submit" value="Yes, delete !" />
+    }
+</div>
+
+<br /><br />
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+

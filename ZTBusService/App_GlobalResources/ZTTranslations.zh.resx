@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="About" xml:space="preserve">
+    <value>关于</value>
+  </data>
+  <data name="address" xml:space="preserve">
+    <value>街道地址</value>
+  </data>
+  <data name="ChangeLanguage" xml:space="preserve">
+    <value>改变语言</value>
+  </data>
+  <data name="city" xml:space="preserve">
+    <value>市</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>联系我们</value>
+  </data>
+  <data name="countryCode" xml:space="preserve">
+    <value>国家代码</value>
+  </data>
+  <data name="Create" xml:space="preserve">
+    <value>创建</value>
+  </data>
+  <data name="CreateNewX" xml:space="preserve">
+    <value>新建{0}</value>
+  </data>
+  <data name="dateHired" xml:space="preserve">
+    <value>聘用日期</value>
+  </data>
+  <data name="Driver" xml:space="preserve">
+    <value>司机</value>
+  </data>
+  <data name="driverLowerCase" xml:space="preserve">
+    <value>司机</value>
+  </data>
+  <data name="email" xml:space="preserve">
+    <value>电子邮件</value>
+  </data>
+  <data name="exceptionTryingToAddX" xml:space="preserve">
+    <value>除了尝试添加新的{0}：</value>
+  </data>
+  <data name="FieldMustBeDate" xml:space="preserve">
+    <value>现场“{0}”必须是日期</value>
+  </data>
+  <data name="FieldMustBeNumeric" xml:space="preserve">
+    <value>现场“{0}”必须是一个数字</value>
+  </data>
+  <data name="firstName" xml:space="preserve">
+    <value>名字</value>
+  </data>
+  <data name="fullNameDriver" xml:space="preserve">
+    <value>驱动程序名称</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>家</value>
+  </data>
+  <data name="homePhone" xml:space="preserve">
+    <value>家庭电话</value>
+  </data>
+  <data name="id" xml:space="preserve">
+    <value>驾驶员编号</value>
+  </data>
+  <data name="lastName" xml:space="preserve">
+    <value>姓</value>
+  </data>
+  <data name="LogIn" xml:space="preserve">
+    <value>登录</value>
+  </data>
+  <data name="name" xml:space="preserve">
+    <value>名称</value>
+  </data>
+  <data name="NewXRecordAdded" xml:space="preserve">
+    <value> 新{0}记录添加。</value>
+  </data>
+  <data name="phone" xml:space="preserve">
+    <value>电话</value>
+  </data>
+  <data name="phonePattern" xml:space="preserve">
+    <value>电话模式</value>
+  </data>
+  <data name="pleaseSelect" xml:space="preserve">
+    <value>- - 请选择 - -</value>
+  </data>
+  <data name="postalCode" xml:space="preserve">
+    <value>邮政编码</value>
+  </data>
+  <data name="postalPattern" xml:space="preserve">
+    <value>邮政格局</value>
+  </data>
+  <data name="PropertyValueInvalid" xml:space="preserve">
+    <value>“{0}”不是一个有效的值“{1}”</value>
+  </data>
+  <data name="PropertyValueRequired" xml:space="preserve">
+    <value>需要一个值“{0}”</value>
+  </data>
+  <data name="province" xml:space="preserve">
+    <value>省</value>
+  </data>
+  <data name="provinceCode" xml:space="preserve">
+    <value>省代码</value>
+  </data>
+  <data name="provinceStateLabel" xml:space="preserve">
+    <value>省标</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>寄存器</value>
+  </data>
+  <data name="Required" xml:space="preserve">
+    <value>{0}不能为空或只是空间</value>
+  </data>
+  <data name="ReturnToList" xml:space="preserve">
+    <value>返回列表</value>
+  </data>
+  <data name="Roles" xml:space="preserve">
+    <value>角色</value>
+  </data>
+  <data name="Section" xml:space="preserve">
+    <value>部分</value>
+  </data>
+  <data name="street" xml:space="preserve">
+    <value>街</value>
+  </data>
+  <data name="streetAddress" xml:space="preserve">
+    <value>街道地址</value>
+  </data>
+  <data name="TempMessageDeleteSuccessIdName" xml:space="preserve">
+    <value>驱动程序（编号：{0}，全名：{1}）已被删除。</value>
+  </data>
+  <data name="TempMessageErrorOnDeleteIdName" xml:space="preserve">
+    <value>无法删除的驱动程序（编号：{0}，全名：{1}）：</value>
+  </data>
+  <data name="TempMessageErrorOnEditIdName" xml:space="preserve">
+    <value>无法更新信息驱动程序（编号：{0}，全名：{1}）：</value>
+  </data>
+  <data name="TempMessageUpdateSuccessIdName" xml:space="preserve">
+    <value>这些信息对于此驱动程序（编号：{0}，全名：{1}）已更新。</value>
+  </data>
+  <data name="TempMessageXisX" xml:space="preserve">
+    <value> {0} {1}。</value>
+  </data>
+  <data name="titleAddNewX" xml:space="preserve">
+    <value>添加新{0}</value>
+  </data>
+  <data name="userName" xml:space="preserve">
+    <value>用户名</value>
+  </data>
+  <data name="Users" xml:space="preserve">
+    <value>用户</value>
+  </data>
+  <data name="workPhone" xml:space="preserve">
+    <value>工作电话</value>
+  </data>
+  <data name="XCannotBeBlanks" xml:space="preserve">
+    <value>{0}不能仅仅是空格/空间。</value>
+  </data>
+  <data name="XcannotBeDerivedFromXorX" xml:space="preserve">
+    <value>{0}不能从派生{1}或{2}</value>
+  </data>
+  <data name="XCannotBeFuture" xml:space="preserve">
+    <value>{0}不能在未来。</value>
+  </data>
+  <data name="XIsInvalidDate" xml:space="preserve">
+    <value>{0}不是有效日期甲：2005-12-31</value>
+  </data>
+  <data name="XIsInvalidPhoneNumber" xml:space="preserve">
+    <value>{0}不是一个有效的电话号码。请格式化像222-222-2222。</value>
+  </data>
+  <data name="XIsInvalidPostal" xml:space="preserve">
+    <value>{0}不是一个有效的加拿大邮政的模式：A3A 3A3</value>
+  </data>
+  <data name="XisNotOnFile" xml:space="preserve">
+    <value>{0}“{1}”不立案</value>
+  </data>
+  <data name="XRecordCreated" xml:space="preserve">
+    <value>{0}记录创建</value>
+  </data>
+  <data name="ZhenzhenBusService" xml:space="preserve">
+    <value>珍珍的巴士服务</value>
+  </data>
+  <data name="ErrorOnValidatingX" xml:space="preserve">
+    <value>在验证{0}错误：</value>
+  </data>
+  <data name="WrongProvincePattern" xml:space="preserve">
+    <value>省代码是不是有效的加拿大省代码。</value>
+  </data>
+  <data name="XCanOnlyBe2EnglishLetters" xml:space="preserve">
+    <value>{0}只能包含英文字母和仅2个字母。</value>
+  </data>
+  <data name="DataTypeDateTime" xml:space="preserve">
+    <value>字段{0}必须是日期。</value>
+  </data>
+  <data name="StringLength" xml:space="preserve">
+    <value>{0}的长度应为2至50。</value>
+  </data>
+</root>

@@ -1,0 +1,51 @@
+﻿@model IEnumerable<ZTBusService.Models.tripStop>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.tripStopTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.comments)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.busStop.location)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.trip.comments)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.tripStopTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.comments)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.busStop.location)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.trip.comments)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.tripStopId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.tripStopId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.tripStopId })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,18 @@
+﻿@model IEnumerable<ZTBusService.Models.routeStop>
+
+@{
+    ViewBag.Title = "Select route to see schedule at " + @Session["location"];
+    Session["busStopNumber"] = ViewBag.busStopNumber;
+    Session["location"] = ViewBag.location;
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm("RouteStopSchedule", "ZTRouteSchedule",new { 
+    busStopNumber = Session["busStopNumber"], 
+    location = Session["location"], 
+    offSetMinutes = (double)Session["offSetMinutes"], flag = true }))
+{
+    @Html.DropDownList("dropdownlist", new SelectList(ViewBag.myBus, "routeStopId", "busRoute.routeName"))
+    <input type="submit" value="Get Schedule" />
+}

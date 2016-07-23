@@ -1,0 +1,44 @@
+﻿@using Microsoft.AspNet.Identity.EntityFramework;
+@model IEnumerable<IdentityRole>
+
+@{
+    ViewBag.Title = "Role Listing";
+    ViewBag.isAdministrator = User.IsInRole("administrators");
+    ViewBag.isStaff = User.IsInRole("staff");
+}
+
+<h2>@ViewBag.Title</h2>
+<hr />
+
+@using (Html.BeginForm("AddRole", "ZTRoleMaintenance"))
+{
+    <p>Add New Role: @Html.TextBox("roleName") <input type="submit" value="Add Role" /></p>
+}
+
+<table>
+    <tr>
+        <th width="150">
+            Role Name
+        </th>
+        <th>
+
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.Name
+            </td>
+            <td>
+                @Html.ActionLink("List Members", "MemberList", new { roleName = item.Name })
+                @if (item.Name != "administrators")
+                {
+                    <text>&emsp;|&emsp;</text>
+                    @Html.ActionLink("Delete Role", "DeleteRole", new { roleName = item.Name })
+                }
+            </td>
+        </tr>
+    }
+
+</table>

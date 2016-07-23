@@ -1,0 +1,33 @@
+﻿@model IEnumerable<ZTBusService.Models.trip>
+
+@{
+    ViewBag.Title = "Bus Trips for " + @Session["busRouteCode"] + " - " + @Session["busRouteName"];
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<table style="table-layout: fixed; width: 600px; white-space: nowrap;">
+    <tr>
+        <th>Date</th>
+        <th>Start Time</th>
+        <th>Driver</th>
+        <th>Bus #</th>
+        <th style="width:auto">Comments</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        var dateString = item.tripDate.ToString("ddd dd MMM yyyy");
+        <tr>
+            <td>@Html.DisplayFor(d => dateString)</td>
+            <td>@Html.DisplayFor(d => item.routeSchedule.startTime)</td>
+            <td>@Html.DisplayFor(d => item.driver.lastName), @Html.DisplayFor(d => item.driver.firstName)</td>
+            <td>@Html.DisplayFor(d => item.bus.busNumber)</td>
+            <td>@Html.DisplayFor(d => item.comments)</td>
+        </tr>
+    }
+</table>
